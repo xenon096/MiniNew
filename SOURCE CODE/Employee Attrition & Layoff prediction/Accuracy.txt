@@ -1,0 +1,23 @@
+Employee Attrition Prediction using machine learning
+*****************************************************
+
+Algorithm / Model Used: Random Forest Classifier.
+Accuracy Train Score: 100% and Test score: 98%
+*****************************************************
+
+Algorithm / Model Used: Bagging Classifier.
+Accuracy Train Score: 99% and Test Score: 95%.
+*****************************************************
+
+Employee Layoff Prediction using Machine Learning
+*****************************************************
+
+Algorithm / Model Used: Gradient Boosting Regressor
+Training Set Mean Absolute Error: 0.2197  and Test Set Mean Absolute Error: 1.5444.
+*****************************************************
+Algorithm / Model Used: Random Forest Regressor 
+Training Set Mean Absolute Error: 0.5434  and Test Set Mean Absolute Error: 1.4992
+
+
+
+

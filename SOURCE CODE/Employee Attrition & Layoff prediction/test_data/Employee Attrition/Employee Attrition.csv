@@ -1,0 +1,9 @@
+Age,Department,DistanceFromHome,EducationField,EmployeeNumber,Gender,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,StandardHours,TotalWorkingYears,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Attrition
+34,Research & Development,19,Medical,18,Male,Laboratory Technician,Very High,Divorced,2661,0,No,11,3,80,3,Better,2,2,1,2,No
+28,Research & Development,24,Life Sciences,19,Male,Laboratory Technician,High,Single,2028,5,Yes,14,3,80,6,Better,4,2,0,3,Yes
+29,Research & Development,21,Life Sciences,20,Female,Manufacturing Director,Low,Divorced,9980,1,No,11,3,80,10,Better,10,9,8,8,No
+36,Sales,9,Life Sciences,27,Male,Sales Representative,Low,Single,3407,7,No,23,4,80,10,Better,5,3,0,3,Yes
+34,Research & Development,7,Life Sciences,28,Female,Research Director,Medium,Single,11994,0,No,11,3,80,13,Better,12,6,2,11,No
+50,Sales,28,Marketing,2055,Male,Sales Executive,Low,Divorced,10854,4,Yes,13,3,80,20,Better,3,2,2,0,Yes
+39,Sales,24,Marketing,2056,Female,Sales Executive,Very High,Married,12031,0,No,11,3,80,21,Good,20,9,9,6,No
+31,Research & Development,5,Medical,2057,Male,Manufacturing Director,Low,Single,9936,0,No,19,3,80,10,Better,9,4,1,7,No
